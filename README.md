@@ -8,7 +8,7 @@ SURFnet created easy to use software development kits that will enable developer
 
 
 ## Additional information
-* [Blogpost about the investigation and report](https://blog.surf.nl/en/federated-login-to-native-applications-the-right-way/)
-* [Blogpost about the SDKs](future)
-* [Report (22-04-2016)](https://blog.surf.nl/wp-content/uploads/2016/05/Report-Federated-Login-to-Native-Applications.pdf)
+* [Blogpost about the investigation and report (*11-05-2016*)](https://blog.surf.nl/en/federated-login-to-native-applications-the-right-way/)
+* [Blogpost about the SDKs (*to be posted*)](future)
+* [Report (*22-04-2016*)](https://blog.surf.nl/wp-content/uploads/2016/05/Report-Federated-Login-to-Native-Applications.pdf)
 
