@@ -1,6 +1,6 @@
 # Federated login to non-web applications
 
-SURFnet created easy to use software development kits that will enable developers to implement federated login in their applications. 
+With an increasing demand to use web-based federated login within native non-web applications, but no clear method of doing thisSURFnet created easy to use software development kits that will enable developers to implement federated login in their applications. 
 
 
 
