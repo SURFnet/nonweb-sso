@@ -13,5 +13,5 @@ With an increasing demand to use web-based federated login within native non-web
 ## Additional information
 * [Blogpost about the investigation and report (*11-05-2016*)](https://blog.surf.nl/en/federated-login-to-native-applications-the-right-way/)
 * [Report (*22-04-2016*)](https://blog.surf.nl/wp-content/uploads/2016/05/Report-Federated-Login-to-Native-Applications.pdf)
-* [Poster used on TNC16 Networking Conference](future)
+* [Poster used on TNC16 Networking Conference](https://github.com/SURFnet/nonweb-sso/blob/master/FederatedLogin_A1.pdf)
 
